@@ -1,2 +1,2 @@
-# ICBO Schedule
-Fill in schedule details.
+# Fois Schedule
+Schedule to be released once papers have been accepted. 
